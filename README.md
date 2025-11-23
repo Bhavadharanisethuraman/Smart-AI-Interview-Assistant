@@ -103,9 +103,9 @@ SPEECHMATICS_API_KEY=your_speechmatics_api_key
 
 
 # For API keys, visit:
-Google API Key: https://console.cloud.google.com/apis/credentials
-LiteLLM Models: https://docs.litellm.ai/docs/providers
-Speechmatics API Key: https://www.speechmatics.com/
+Google API Key: https://console.cloud.google.com/apis/credentials  
+LiteLLM Models: https://docs.litellm.ai/docs/providers   
+Speechmatics API Key: https://www.speechmatics.com/  
 
 # Step 6: Run the application
 streamlit run app.py
