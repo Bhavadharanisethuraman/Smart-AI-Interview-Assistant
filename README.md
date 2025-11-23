@@ -1,2 +1,8 @@
-# Smart-AI-Interview-Assistant
-AI Interview System | Intelligent, Voice-Enabled AI Interviewer that Analyzes Resumes and Conducts Interactive, Personalized Mock Interviews with Real-Time Feedback
+# 🤖 Smart AI Interview Assistant
+Transforming interview preparation with AI-powered personalized mock interviews
+
+
+
+
+
+
