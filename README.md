@@ -1,4 +1,4 @@
-# Smart AI Interview Assitant
+# Smart AI Interview Assistant
 
 An advanced AI-powered platform designed to simulate realistic job interviews, analyze candidate resumes, generate tailored questions, and provide insightful feedback to help candidates excel.
 
@@ -7,7 +7,7 @@ An advanced AI-powered platform designed to simulate realistic job interviews, a
 ## 🔗 Detailed Documentation
 
 For a complete overview of the project design, implementation details, and features,  
-please check the [Full Project Documentation](./Smart%20AI%20interview%20Assistant.pdf).
+please check the [Full Project Documentation](./Smart%20AI%20Interview%20Assistant.pdf).
 
 ___
 
