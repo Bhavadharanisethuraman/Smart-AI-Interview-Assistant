@@ -94,12 +94,13 @@ pip install -r requirements.txt
 cp .env.example .env
 
 # Step 5: Edit the .env file and add your API keys
-Open `.env` in a text editor and replace the placeholders with your actual keys:
+Open .env in a text editor and replace the placeholders with your actual keys:
 
-```env
-GOOGLE_API_KEY=your_google_api_key
-LLM_MODEL="gemini"  # or any supported model
-SPEECHMATICS_API_KEY=your_speechmatics_api_key 
+GOOGLE_API_KEY=your_google_api_key  
+LLM_MODEL="gemini" # or any supported model  
+SPEECHMATICS_API_KEY=your_speechmatics_api_key
+
+
 
 # For API keys, visit:
 Google API Key: https://console.cloud.google.com/apis/credentials
