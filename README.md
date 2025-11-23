@@ -4,6 +4,13 @@ An advanced AI-powered platform designed to simulate realistic job interviews, a
 
 ---
 
+## 🔗 Detailed Documentation
+
+For a complete overview of the project design, implementation details, and features,  
+please check the [Full Project Documentation](./Smart AI interview Assistant.pdf).
+
+___
+
 ## ✨ Key Features
 
 - **Smart Resume Parsing**  
