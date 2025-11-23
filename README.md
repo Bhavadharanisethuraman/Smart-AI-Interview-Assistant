@@ -11,7 +11,7 @@ please check the [Full Project Documentation](./Smart%20AI%20Interview%20Assista
 
 ___
 
-## ✨ Key Features
+##  Key Features
 
 - **Smart Resume Parsing**  
   Upload your PDF resume and instantly extract key skills, experiences, and highlights.
@@ -33,7 +33,7 @@ ___
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. **Get Started**  
    Upload your resume and paste the job description. Optionally set max questions and select AI voice.
@@ -52,7 +52,7 @@ ___
 
 ---
 
-## 🎯 Why Choose This System?
+## Why Choose This System?
 
 - **Adaptive & Contextual**  
   Questions evolve naturally based on your unique profile and interview progression.
@@ -68,7 +68,7 @@ ___
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 - PDF format resume  
 - Job description text  
@@ -76,24 +76,24 @@ ___
 
 ---
 
-## 🚀 How to run in local environment
+## How to run in local environment
 
 
-# Step 1: Clone the repository
+## Step 1: Clone the repository
 git clone https://github.com/manthan89-py/AI-Interview-System.git
 cd AI-Interview-System
 
-# Step 2: Create and activate virtual environment
+## Step 2: Create and activate virtual environment
 python3 -m venv venv
 source venv/bin/activate    # On Windows use `venv\Scripts\activate`
 
-# Step 3: Install dependencies
+## Step 3: Install dependencies
 pip install -r requirements.txt
 
-# Step 4: Setup environment variables
+## Step 4: Setup environment variables
 cp .env.example .env
 
-# Step 5: Edit the .env file and add your API keys
+## Step 5: Edit the .env file and add your API keys
 Open .env in a text editor and replace the placeholders with your actual keys:
 
 GOOGLE_API_KEY=your_google_api_key  
