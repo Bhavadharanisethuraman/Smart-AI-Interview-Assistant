@@ -87,15 +87,15 @@ pip install -r requirements.txt
 cp .env.example .env
 
 # Step 5: Edit the .env file and add your API keys
-# Open .env in a text editor and replace the placeholders with your actual keys:
-# GOOGLE_API_KEY=your_google_api_key
-# LLM_MODEL="gemini"  # or any supported model
-# SPEECHMATICS_API_KEY=your_speechmatics_api_key
+Open .env in a text editor and replace the placeholders with your actual keys:
+GOOGLE_API_KEY=your_google_api_key
+LLM_MODEL="gemini"  # or any supported model
+SPEECHMATICS_API_KEY=your_speechmatics_api_key
 
 # For API keys, visit:
-# Google API Key: https://console.cloud.google.com/apis/credentials
-# LiteLLM Models: https://docs.litellm.ai/docs/providers
-# Speechmatics API Key: https://www.speechmatics.com/
+Google API Key: https://console.cloud.google.com/apis/credentials
+LiteLLM Models: https://docs.litellm.ai/docs/providers
+Speechmatics API Key: https://www.speechmatics.com/
 
 # Step 6: Run the application
 streamlit run app.py
